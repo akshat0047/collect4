@@ -42,4 +42,11 @@ Drops a coin in the given column number
 - Platform: Heroku
 - GitHub Repository: https://github.com/akshat0047/collect4 (Problem Statement Confidential)
 - Procedure: https://devcenter.heroku.com/articles/getting-started-with-nodejs
-- URL: 
+- HOSTED-URL: https://pratilipi-akshat.herokuapp.com/
+
+
+### Approach
+- Create a JS Object with column number as keys
+- Insert elements in beginning
+- Convert the object to 2D Array representing the Game Grid
+- Return Response
